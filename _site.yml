@@ -7,6 +7,6 @@ navbar:
       href: index.html
     - text: "About Me"
       href: about.html
-    - text: "my experience"
+    - text: "My Experience"
       href: experience.html
       
