@@ -2,6 +2,8 @@
 title: "About Me"
 ---
 
+I love to do rubicks cubes, and in 2018, I developed my own way to solve the cube as well as the dodecahedron. I love to learn, and am not afraid of a challenge.
+
 Hello, World!
 
 My name is Ben Lindsay.
